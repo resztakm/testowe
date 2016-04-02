@@ -1,1 +1,5 @@
  cfsvrtb vdthcf x vxdgfxdf g
+begin procedure{
+delete operating system("Stolarczyk", delete = "Unix")
+
+}
